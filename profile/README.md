@@ -22,6 +22,7 @@ Have you done it already? Okay, good. Now if you need to contact us, well, you m
  * [**Telegram Chat Group**](https://t.me/CherishOS_Chat)
  * [**Telegram Announcements Channel**](https://t.me/CherishOS)
  * [**Our OFFICIAL Website**](https://cherishos.com/)
+ * [**Crowdin**](https://crowdin.com/project/cherishos-a12)
 
 ## If you have liked our work and want to support us please consider donating for servers
 
