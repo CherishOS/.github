@@ -26,6 +26,8 @@ Have you done it already? Okay, good. Now if you need to contact us, well, you m
 
 ## If you have liked our work and want to support us please consider donating for servers
 
-```bash
-PAYPAL: https://www.paypal.me/hungphan2001
-```
+* Paypal: https://www.paypal.me/phandinhhung2001
+* Sponsors from github: https://github.com/sponsors/CherishOS
+* Patreon: https://patreon.com/CherishOS
+* Ko_fi: https://ko-fi.com/hungphan2001
+* Buy me a coffee: https://www.buymeacoffee.com/hungphan2001
